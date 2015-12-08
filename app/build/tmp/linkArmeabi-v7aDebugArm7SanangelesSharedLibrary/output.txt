@@ -1,0 +1,4 @@
+See file:///D:/Android/AndroidStudioProjects/SanAngeles/app/build/tmp/linkArmeabi-v7aDebugArm7SanangelesSharedLibrary/output.txt for all output for linkArmeabi-v7aDebugArm7SanangelesSharedLibrary.
+linking libsanangeles.so successful.
+
+Finished linkArmeabi-v7aDebugArm7SanangelesSharedLibrary, see full log file:///D:/Android/AndroidStudioProjects/SanAngeles/app/build/tmp/linkArmeabi-v7aDebugArm7SanangelesSharedLibrary/output.txt.
